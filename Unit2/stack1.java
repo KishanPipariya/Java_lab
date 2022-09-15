@@ -1,8 +1,15 @@
 package Unit2;
-interface stackInterface{
+interface pop_{
     void pop();
+}
+interface push_ {
     void push(String s);
 }
+
+interface stackInterface extends pop_, push_{
+    void print();
+}
+
 public class stack1 implements stackInterface{
 
     String[] stk;
