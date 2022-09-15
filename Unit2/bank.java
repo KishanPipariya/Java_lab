@@ -59,7 +59,11 @@ class Test{
         axis ob3 = new axis();
         double f1;
         f1 = ob1.getInterestRate();
-
+        System.out.println(f1);
+        f1 = ob2.getInterestRate();
+        System.out.println(f1);
+        f1 = ob3.getInterestRate();
+        System.out.println(f1);
     }
 }
 
