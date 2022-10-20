@@ -1,5 +1,4 @@
 package Unit2;
-//ragged array
 
 import java.util.Scanner;
 

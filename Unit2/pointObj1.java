@@ -1,3 +1,5 @@
+package Unit2;
+
 import java.lang.Math;
 class point{
     
@@ -22,8 +24,6 @@ class point{
         this.y = p.y;
         this.z = p.z;
     }
-
-
 
     void setData(double x1, double y1, double z1)
     {

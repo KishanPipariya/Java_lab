@@ -11,6 +11,7 @@ class rectangle extends shape{
         this.l=l;
         this.b=b;
     }
+    @Override
     double area(){
         ar = l*b;
         return ar;

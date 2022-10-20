@@ -18,5 +18,4 @@ class inchesAndFeet {
         d2.setData(5, 1);
         d2.printData();
     }
-    
 }
