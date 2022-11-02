@@ -1,6 +1,6 @@
 package Unit2;
 import Unit1.passByValue;
-/*
+
 class accessSpecifier1{
     private int p=10;
     public int q=10;
@@ -65,4 +65,4 @@ class accessSpecifier extends accessSpecifier2{
 
     }
 }
-*/
+
